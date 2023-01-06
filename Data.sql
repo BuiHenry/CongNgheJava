@@ -46,3 +46,8 @@ CREATE TABLE tbl_Diem
 	FOREIGN KEY (MAMH) REFERENCES tbl_MonHoc (MAMH)
 
 )
+
+CREATE TABLE tbl_Test
+(
+	MSTEST Char(10)
+)
