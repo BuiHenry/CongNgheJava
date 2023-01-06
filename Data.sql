@@ -51,3 +51,4 @@ CREATE TABLE tbl_Test
 (
 	MSTEST Char(10)
 )
+drop table tbl_Test
